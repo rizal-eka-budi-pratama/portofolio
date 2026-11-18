@@ -1,0 +1,19 @@
+:root {
+  --color-bg-navbar: #fcfcfa;
+  --color-bg: #f6f4ee;
+  --color-bg-dark: #111111;
+
+  --color-text: #111111;
+  --color-text-light: #f3eee3;
+
+  --color-primary: #c83e3a;
+  --color-primary-hover: #a82e2b;
+
+  --color-card: #ffffff;
+  --color-border: #111111;
+
+  --font-primary: "Inter", sans-serif;
+
+  --container-width: 1200px;
+  --section-padding: 100px 0;
+}
